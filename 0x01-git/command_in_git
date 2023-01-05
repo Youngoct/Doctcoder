@@ -1,0 +1,7 @@
+git clone.command to clone repsitory
+git add.command to add file to git
+git commit.command to write a project
+git checkout-b. to creat a branch
+git switch.to change  the branch
+git push.is to push the work to orgsn
+git rm to deiete a file form git
