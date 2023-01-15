@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir you
+cd you
+vim am
+cd ..
